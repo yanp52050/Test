@@ -1,2 +1,2 @@
-sed new test
+sed new test2
 test git
